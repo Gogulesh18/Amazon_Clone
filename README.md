@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🔧 Environment Variable Setup
 
 Before running the application, you need to create `.env` files in both the `backend` and `amazon-frontend` folders.
@@ -28,3 +29,6 @@ cd backend
 Run the seed script:
 node seed.js
 This will populate your database with initial product data.
+=======
+# Amazon_Clone
+>>>>>>> 69c39562b5fefbffecb2924779dd0b335d7c9488
